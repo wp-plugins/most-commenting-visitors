@@ -23,5 +23,8 @@ This is a widget plugin which helps to display the visitors who left the most nu
 
 == Changelog ==
 
+= 1.1 =
+* Now you can exclude visitors from most commenting visitors by their emails.
+
 = 1.0 =
 * First release.
