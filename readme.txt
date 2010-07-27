@@ -3,7 +3,7 @@ Contributors: Ruben Sargsyan
 Donate link: http://rubensargsyan.com/donate/
 Tags: most, comments, replies, visitors, authors, widget
 Requires at least: 2.8
-Tested up to: 2.9.2
+Tested up to: 3.0
 
 This is a widget plugin which helps to display the visitors who left the most number of comments in the Wordpress blog.
 
@@ -22,6 +22,9 @@ This is a widget plugin which helps to display the visitors who left the most nu
 1. Most Commenting Visitors
 
 == Changelog ==
+
+= 1.3 =
+* Now you can set the start date from which the plugin will count the numbers of comments.
 
 = 1.2 =
 * This version ignores the following types of comments: trackback and pingback.
