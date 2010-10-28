@@ -11,13 +11,17 @@ This is a widget plugin which helps to display the visitors who left the most nu
 
 This is a widget plugin which helps to display the visitors who left the most number of comments in the Wordpress blog.
 
-[Plugin Homepage](http://rubensargsyan.com/wordpress-plugin-most-commenting-visitors).
+[Plugin Homepage](http://rubensargsyan.com/wordpress-plugin-most-commenting-visitors)
 
 == Installation ==
 
 1. Upload the most-commenting-visitors directory (including all files within) to the /wp-content/plugins/ directory.
 2. Activate the plugin through the Plugins menu in WordPress.
 3. Go to the "Appearance"->"Widgets" panel and drag-and-drop the "Most Commenting Visitors" box into your sidebar, configure options and save.
+
+== Frequently Asked Questions ==
+
+For questions contact with the plugin author - [Ruben Sargsyan](http://rubensargsyan.com/contact).
 
 == Screenshots ==
 
