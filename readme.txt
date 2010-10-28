@@ -1,15 +1,17 @@
 === Most Commenting Visitors ===
-Contributors: Ruben Sargsyan
+Contributors: s_ruben
 Donate link: http://rubensargsyan.com/donate/
 Tags: most, comments, replies, visitors, authors, widget
 Requires at least: 2.8
-Tested up to: 3.0
+Tested up to: 3.0.1
 
 This is a widget plugin which helps to display the visitors who left the most number of comments in the Wordpress blog.
 
 == Description ==
 
 This is a widget plugin which helps to display the visitors who left the most number of comments in the Wordpress blog.
+
+[Plugin Homepage](http://rubensargsyan.com/wordpress-plugin-most-commenting-visitors).
 
 == Installation ==
 
